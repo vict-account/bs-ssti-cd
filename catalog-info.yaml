@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ssti-customdir
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/vict-account/bs-ssti-cd/tree/main
+spec:
+  type: service
+  lifecycle: production
+  owner: guests
