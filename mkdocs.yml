@@ -1,0 +1,7 @@
+site_name: CD Test
+docs_dir: docs
+plugins:
+  - techdocs-core
+theme:
+  name: material
+  custom_dir: custom_theme/
